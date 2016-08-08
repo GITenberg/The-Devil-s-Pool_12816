@@ -1,0 +1,42 @@
+_repo: The-Devil-s-Pool_12816
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rudaux, Edmond Adolphe
+    birthdate: 1840
+    gutenberg_agent_id: '4902'
+    url: http://www.gutenberg.org/2009/agents/4902
+  translator:
+    agent_name: Ives, George Burnham
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '9437'
+    url: http://www.gutenberg.org/2009/agents/9437
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: See also PG#21993 tr. by J.M. and E. Sedgwick
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Pastoral fiction, French'
+- GITenberg
+title: The Devil's Pool
+url: http://www.gutenberg.org/ebooks/12816
